@@ -23,7 +23,7 @@ function App() {
 <Route path="/Slider" element={<Slider/>}/>
 <Route path="/ToDoList" element={<Todo/>}/>
 <Route path="/API" element={<API/>}/>
-<Route path="*" element={<h1>404 : this page not found</h1>} />
+<Route path="*" element={<h1>404 : this page could not be found</h1>} />
 <Route path="/context/Langcontext" element={
   <Langcontext>
     <Cicones/>
