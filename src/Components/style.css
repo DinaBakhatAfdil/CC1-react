@@ -1,0 +1,11 @@
+.img{
+   width: 70%; height: 400px;
+   border-style:groove;
+   border-radius: 50px;
+}
+.container {
+    max-width: 1000px;  
+    height: 500px;  
+    margin: -40px auto ;  
+      
+  }
